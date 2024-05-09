@@ -1,4 +1,4 @@
-Hi 👋 My name is Prachi Gupta
+Hi 👋 My name is Prachi Gupta (Pracs 😉)
 ==============================
 
 Software Engineer
