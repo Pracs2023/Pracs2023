@@ -6,7 +6,7 @@ Software Engineer
 
 
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/yogitocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/NUX_Octodex.gif" height="160px" width="160px"> </p>
 
  
    Web Development made me fall in love with coding and building exciting products! I have a soft spot for technology and communities ❤️
